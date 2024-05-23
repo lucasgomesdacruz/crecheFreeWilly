@@ -34,7 +34,7 @@
     font-weight: bolder;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 550px) {
     .agendarVisita-container {
         padding: 40px 0px;
     }
